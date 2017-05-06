@@ -12,36 +12,7 @@ import java.util.ArrayList;
 import com.example.mahathi.assignment42.beans.CustomHandler;
 import com.example.mahathi.assignment42.adapters.CustomAdapter;
 
-public class
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-MainActivity extends AppCompatActivity implements  AdapterView.OnItemClickListener{
+public class MainActivity extends AppCompatActivity implements  AdapterView.OnItemClickListener{
 
     ListView list;
     String name[]=new String[]{"Name1","Name2","Name3","Name4","Name5","Name6","Name7"};
